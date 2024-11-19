@@ -4,7 +4,6 @@
 - ✍Sou apaixonado pela Tecnologia e pela Leitura e gosto sempre de aprender coisas novas todos os dias, Afinal a parte mais interessante de um projeto, é seu Inicio!
 - 😄ele/dele
 - ⚡Algo sobre mim...Bem, Minha Motivação e Motivo de não Desistir, é poder Acordar todo dia! Porque se eu  acordei é porque tenho mais tempo para  ser Brilhante e Inovador. 
-- 
 
 <div>
   <a href="https://beacons.ai/maycondaniel"> 
